@@ -2,7 +2,7 @@ import networkx as nx
 import pandas as pd
 
 def load_data(file_path):
-    # Load and process data with Pandas
+    
     df = pd.read_csv(file_path)
     return df
 
