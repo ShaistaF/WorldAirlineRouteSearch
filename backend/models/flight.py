@@ -1,7 +1,7 @@
 from .database import db
 
 def get_optimized_route(origin, destination):
-    # Simulate route optimization
+
     return {
         'origin': origin,
         'destination': destination,
